@@ -4,4 +4,6 @@ pull is a combination of fetch and merge. It is used to pull all changes from a 
 
 Make another change to the Readme.md file on GitHub. 
 
-We have confirmed that the updates are as expected, and we can merge our current branch (master) with origin/master:
+We have confirmed that the updates are as expected, (this is branch 1)
+
+and we can merge our current branch (master) with origin/master:
